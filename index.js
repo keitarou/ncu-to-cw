@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var _ = require('lodash');
 var ncu = require('npm-check-updates');
 var postChatworkMessage = require('post-chatwork-message');
